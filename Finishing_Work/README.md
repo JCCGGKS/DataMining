@@ -2,6 +2,8 @@
 
 This repository mainly records notes related to data mining .
 
+[JCCGGKS/DataMining (github.com)](https://github.com/JCCGGKS/DataMining)
+
 ## 将本地文件上传到github的步骤：
 
 ### (第一步)在GitHub上创建仓库（远程仓库）
